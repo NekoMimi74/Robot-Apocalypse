@@ -4,4 +4,4 @@
 ## Team Member List
 * Chris Armour
 * Johny Nguyen
-* Edgar (LastName)
+* Edgar Elias Sanchez
